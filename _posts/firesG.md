@@ -6,7 +6,6 @@ tags: [dataviz, altair, vega-lite, observable, holoviews]
 excerpt: "Embedding interactive charts on static pages using Jekyll."
 altair-loader:
   altair-chart: "charts/firesG.json"
-observable-loader:
 toc: true
 toc_sticky: true
 ---
