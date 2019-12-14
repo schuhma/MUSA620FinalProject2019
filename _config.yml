@@ -105,9 +105,9 @@ analytics:
 
 # Site Author
 author:
-  name: "Nick Hand"
+  name: "Madeline Schuh"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Director of Finance, Data, and Policy, Philadelphia Controller"
+  bio: 
   location: "Philadelphia"
   email:
   links:
